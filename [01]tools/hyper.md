@@ -4,17 +4,6 @@ description: Hyper YYDS
 
 # 好看的Terminal
 
-## 浏览
-
-* [展示](#presentation)
-* [环境](#environment)
-* [准备](#preperation)
-* [配置oh-my-zsh](#oh-my-zsh)
-  * [语法高亮和自动补全](#oh-my-zsh-01)
-  * [主题](#oh-my-zsh-02)
-* [美化hyper](#hyper)
-* [screenfetch](#sf)
-
 ## <span id='presentation'>展示</span>
 
 ![](../assets/01-hyper-01.png)
