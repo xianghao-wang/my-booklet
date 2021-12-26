@@ -6,7 +6,7 @@ description: Hyper YYDS
 
 ## 展示
 
-![](.gitbook/assets/hyper.png)
+![](../assets/01-hyper-01.png)
 
 ## 环境
 
