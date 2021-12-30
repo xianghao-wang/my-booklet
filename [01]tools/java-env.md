@@ -1,6 +1,8 @@
-# Java环境配置
+---
+description: 平时使用的jdk及jdk管理☕️
+---
 
-平时使用的jdk及jdk管理☕️
+# Java环境配置
 
 ## JDK主要特征
 
