@@ -4,3 +4,13 @@
 
 * gitbook地址 [gitbook](https://xianghao-wang.gitbook.io/my-booklet/)
 
+
+
+## 学习计划
+
+* 网课
+  - [ ] nand2tetirs part II ()
+
+* java web
+  - [ ] java并发
+  - [ ] NIO
