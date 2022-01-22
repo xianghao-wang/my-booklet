@@ -6,5 +6,5 @@
     * [java环境]([01]tools/java-env.md)
     * [方便的工具包]([01]tools/kits.md)
 * [2.杂项]([02]misc/README.md)
-    * [原子性,可见性,有序性]([02]misc/atomicity_visibility_ordering.md)
+    * [java并发博客整理]([02]misc/concurrency_blogs.md)
 
